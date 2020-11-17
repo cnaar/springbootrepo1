@@ -11,6 +11,7 @@
 	<groupId>com.naar</groupId>
 	<artifactId>Spring-Boot-Application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Spring-Boot-Application</name>
 	<description>application to test jenkin pipeline</description>
 
